@@ -21,6 +21,7 @@ The main objective was not only to clean the data, but to demonstrate **data qua
 - Reviewed all columns to assess relevance and data completeness
 - Retained columns that added analytical or contextual value
 - Ensured column names were clear and suitable for database usage
+- Retained fields that added analytical value
 
 ---
 
