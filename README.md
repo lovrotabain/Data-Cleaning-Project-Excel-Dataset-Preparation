@@ -3,7 +3,7 @@
 ## Overview
 This project focuses on **cleaning and preparing a raw Excel dataset** to make it suitable for further analysis and use in tools such as **SQL databases** and **Python (pandas)**.
 
-The main objective was not only to clean the data, but to demonstrate **data quality decision-making** — identifying what data should be kept, corrected, standardised, or transformed to ensure consistency, accuracy, and usability.
+The main objective was not only to clean the data, but to demonstrate **data quality decision-making** identifying what data should be kept, corrected, standardised, or transformed to ensure consistency, accuracy, and usability.
 
 ---
 
